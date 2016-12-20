@@ -6434,7 +6434,7 @@ tbody.collapse.in {
   list-style: none;
   font-size: 14px;
   text-align: left;
-  background-color: #2d344d;
+  background-color: #92A0D1;
   border-radius: 0px;
   -webkit-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.175);
   box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.175);
@@ -14606,7 +14606,7 @@ div.direction-md-rtl {
 }
 
 .bg-dark-var1 {
-  background: #2d344d;
+  background: #92A0D1;
   color: #fff;
 }
 
@@ -20469,7 +20469,7 @@ a.fa-shopping-cart:hover {
 }
 
 .rd-navbar-static .rd-navbar-nav > li.focus > a, .rd-navbar-static .rd-navbar-nav > li > a:hover, .rd-navbar-static .rd-navbar-nav > li.active > a, .rd-navbar-fullwidth .rd-navbar-nav > li.focus > a, .rd-navbar-fullwidth .rd-navbar-nav > li > a:hover, .rd-navbar-fullwidth .rd-navbar-nav > li.active > a {
-  color: #006c9c;
+  color: #08C886;/*#006c9c;*/
 }
 
 .rd-navbar-static .rd-navbar-nav > .rd-navbar-submenu > ul, .rd-navbar-fullwidth .rd-navbar-nav > .rd-navbar-submenu > ul {
@@ -20515,12 +20515,12 @@ a.fa-shopping-cart:hover {
   left: 50%;
   margin-left: -135px;
   width: 270px;
-  background: #2d344d;
+  background: #92A0D1;
   z-index: 5;
 }
 
 .rd-navbar-static .rd-navbar-dropdown, .rd-navbar-fullwidth .rd-navbar-dropdown {
-  background: #2d344d;
+  background: #92A0D1;
   padding: 23px 5px 28px 20px;
   font-family: Montserrat, sans-serif;
 }
@@ -20576,7 +20576,7 @@ a.fa-shopping-cart:hover {
   width: 104.5%;
   margin-top: 17px;
   max-width: none;
-  background: #2d344d;
+  background: #92A0D1;
   z-index: 4;
 }
 
@@ -25463,7 +25463,7 @@ a.thumb:hover img {
 }
 
 .page-footer.dark .footer-content {
-  background: #2d344d;
+  background: #92A0D1;
 }
 
 .page-footer.dark .footer-content .navbar-brand a {
